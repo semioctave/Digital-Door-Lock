@@ -32,7 +32,7 @@ scrollDisplayRight	KEYWORD2
 createChar	KEYWORD2
 setRowOffsets	KEYWORD2
 
-#######################################
+######################################
 # Constants (LITERAL1)
-#######################################
+######################################
 
